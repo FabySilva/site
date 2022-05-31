@@ -1,0 +1,32 @@
+h1{
+    color: darkred;
+    font-size: 22px;
+}
+body{
+    background-color: #11dfbc;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+/*.item{
+    background-color: rgb(88, 155, 214);
+}*/
+.grid img{
+    border-radius: 8px;
+    border: 2px solid #570e57;
+}
+.jg{
+    border-radius: 20px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    background-color: #161164;
+}
+p{
+    color: aliceblue;
+}
+#name{
+    border-style: double;
+}
